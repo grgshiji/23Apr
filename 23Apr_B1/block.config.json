@@ -1,0 +1,20 @@
+{
+  "blockId": "TWsZsvEwz7B9bmkkekrQR",
+  "name": "23Apr_B1",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/23Apr.git",
+    "ssh": "git@github.com:grgshiji/23Apr.git",
+    "branch": "block_23Apr_B1"
+  },
+  "parentBlockIDs": [
+    "10f0v4GtWrmarxB7nPXV2"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
